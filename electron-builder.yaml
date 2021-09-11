@@ -9,7 +9,7 @@ publish: # empty provider list = don't publish
 
 fileAssociations:
   ext: ob
-  name: Openblock project file
+  name: KmEducation project file
   role: Editor
   icon: buildResources/OpenBlockFile.ico
 
